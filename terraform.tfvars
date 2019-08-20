@@ -13,7 +13,7 @@
 # the actual code and cenrtally managed variables used to provision the services.
 
 
-# TVARs formatted variable values
+# TFVARs file formatted variable and values 
   resource_name =  "datawh003"
   service_crn = "databases-for-mongodb"
   service_plan = "standard"
